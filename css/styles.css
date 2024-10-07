@@ -184,7 +184,6 @@ footer{
 }
  
 
-
 @media (max-width: 960px) {
   #header-container {
     flex-direction: column;
